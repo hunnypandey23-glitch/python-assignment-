@@ -1,0 +1,26 @@
+Shruti
+Ansh
+Amrita
+Kriti
+Tripti
+Aditi
+Ayushi
+Nikita
+Hunny
+Shreya
+Virangana
+aswini
+nitya
+tanisha
+phalguni
+anushka
+nandita
+shivani
+
+file = open("students.txt", "r")
+
+data = file.read()
+
+print(data)
+
+file.close()
